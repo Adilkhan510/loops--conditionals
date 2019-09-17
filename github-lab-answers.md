@@ -12,3 +12,9 @@ git commit -m " message here"
 
 4. so we can delete the commit.
 5. if we made a mistake that we want to fix.
+
+
+//SECTION 2//
+1. git checkout -b branchName
+2.git checkout differentBranchName
+3.If you are working collabaratively with someone and working on a specific part.
